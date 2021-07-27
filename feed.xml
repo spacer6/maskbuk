@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>maskbuk</title>
-    <link href="https://maskbuk.web.app/feed.xml" rel="self" />
-    <link href="https://maskbuk.web.app" />
+    <link href="https://maskbuk.netlify.app/feed.xml" rel="self" />
+    <link href="https://maskbuk.netlify.app" />
     <updated>2021-07-20T20:47:21+05:30</updated>
     <author>
         <name>maskbuk</name>
     </author>
-    <id>https://maskbuk.web.app</id>
+    <id>https://maskbuk.netlify.app</id>
 
     <entry>
         <title>Fourth Article</title>
         <author>
             <name>maskbuk</name>
         </author>
-        <link href="https://maskbuk.web.app/fourth-article.html"/>
-        <id>https://maskbuk.web.app/fourth-article.html</id>
+        <link href="https://maskbuk.netlify.app/fourth-article.html"/>
+        <id>https://maskbuk.netlify.app/fourth-article.html</id>
 
         <updated>2021-07-20T20:47:21+05:30</updated>
             <summary>
@@ -45,8 +45,8 @@
         <author>
             <name>maskbuk</name>
         </author>
-        <link href="https://maskbuk.web.app/third-post.html"/>
-        <id>https://maskbuk.web.app/third-post.html</id>
+        <link href="https://maskbuk.netlify.app/third-post.html"/>
+        <id>https://maskbuk.netlify.app/third-post.html</id>
 
         <updated>2021-07-20T18:37:10+05:30</updated>
             <summary>
@@ -68,8 +68,8 @@
         <author>
             <name>maskbuk</name>
         </author>
-        <link href="https://maskbuk.web.app/hope-we-will-see-this-on-firebase.html"/>
-        <id>https://maskbuk.web.app/hope-we-will-see-this-on-firebase.html</id>
+        <link href="https://maskbuk.netlify.app/hope-we-will-see-this-on-firebase.html"/>
+        <id>https://maskbuk.netlify.app/hope-we-will-see-this-on-firebase.html</id>
 
         <updated>2021-07-20T18:09:10+05:30</updated>
             <summary>
@@ -103,8 +103,8 @@
         <author>
             <name>maskbuk</name>
         </author>
-        <link href="https://maskbuk.web.app/first-post-on-maskbuk.html"/>
-        <id>https://maskbuk.web.app/first-post-on-maskbuk.html</id>
+        <link href="https://maskbuk.netlify.app/first-post-on-maskbuk.html"/>
+        <id>https://maskbuk.netlify.app/first-post-on-maskbuk.html</id>
 
         <updated>2021-07-20T17:53:54+05:30</updated>
             <summary>

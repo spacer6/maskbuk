@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://maskbuk.web.app/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://maskbuk.netlify.app/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://maskbuk.web.app/</loc>
+<loc>https://maskbuk.netlify.app/</loc>
 </url>
 <url>
-<loc>https://maskbuk.web.app/first-post-on-maskbuk.html</loc>
+<loc>https://maskbuk.netlify.app/first-post-on-maskbuk.html</loc>
 <lastmod>2021-07-20T17:53:54+05:30</lastmod>
 </url>
 <url>
-<loc>https://maskbuk.web.app/fourth-article.html</loc>
+<loc>https://maskbuk.netlify.app/fourth-article.html</loc>
 <lastmod>2021-07-20T20:47:21+05:30</lastmod>
 </url>
 <url>
-<loc>https://maskbuk.web.app/hope-we-will-see-this-on-firebase.html</loc>
+<loc>https://maskbuk.netlify.app/hope-we-will-see-this-on-firebase.html</loc>
 <lastmod>2021-07-20T18:09:10+05:30</lastmod>
 </url>
 <url>
-<loc>https://maskbuk.web.app/third-post.html</loc>
+<loc>https://maskbuk.netlify.app/third-post.html</loc>
 <lastmod>2021-07-20T18:37:10+05:30</lastmod>
 </url>
 </urlset>
