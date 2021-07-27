@@ -3,12 +3,35 @@
     <title>maskbuk</title>
     <link href="https://maskbuk.netlify.app/feed.xml" rel="self" />
     <link href="https://maskbuk.netlify.app" />
-    <updated>2021-07-20T20:47:21+05:30</updated>
+    <updated>2021-07-27T17:00:18+05:30</updated>
     <author>
         <name>maskbuk</name>
     </author>
     <id>https://maskbuk.netlify.app</id>
 
+    <entry>
+        <title>Testig post</title>
+        <author>
+            <name>maskbuk</name>
+        </author>
+        <link href="https://maskbuk.netlify.app/testig-post.html"/>
+        <id>https://maskbuk.netlify.app/testig-post.html</id>
+
+        <updated>2021-07-27T17:00:18+05:30</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fourth Article</title>
         <author>
